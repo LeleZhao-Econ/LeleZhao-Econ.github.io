@@ -24,8 +24,9 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV.pdf
+    url: https://lelezhao-econ.github.io/files/CV.pdf
     external: true
+
 
     
   # - title: "CV"
