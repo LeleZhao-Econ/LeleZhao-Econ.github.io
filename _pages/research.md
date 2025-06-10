@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-#Working Papers
+# Working Papers
 
 **Gender Disparities in Divorce Laws: Incentivizing Women’s Education**
 
@@ -27,13 +27,13 @@ with Yu Liu, Lu Yao
 
 Despite decades of discussion on the impacts of retirement, our understanding of how retirement affects health outcomes remains limited. In China, statutory retirement ages for formal workers are strictly implemented. Hence, it provides a perfect natural experiment to examine the causal impact of retirement behavior on health outcomes. This study utilizes inpatient claims data in a large hospital in China and employs a regression discontinuity design to examine the impact of retirement on inpatient utilization, costs, and health outcomes across different groups of people – males, blue-collar females, and white-collar females – whose statutory retirement ages differ in China. While the compliance of retirement status with statutory retirement age is very high for all three groups, our findings show that retirement does not significantly increase people’s inpatient visits. Similarly, the cost of hospitalization does not change significantly after retirement. However, we observed a substantial increase in the probability of hospital readmission among white-collar females. This result remains robust even after accounting for health insurance and pension differences. Our results have important policy implications for gender and occupational differences in statutory retirement ages.
 
-#Publication
+# Publication
 
 **[Mobile Payment Adoption and the Decline in China’s Household Savings Rate](https://link.springer.com/article/10.1007/s00181-022-02212-w)**  
 with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)
 Empirical Economics, Vol 63, pp. 2513–37, February 2022
 
-#Works in Progress
+# Works in Progress
 
 **Pre-Marital Medical Examination and HIV Prevalence**
 
