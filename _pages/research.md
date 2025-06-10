@@ -30,7 +30,7 @@ Despite decades of discussion on the impacts of retirement, our understanding of
 # Publication
 
 **[Mobile Payment Adoption and the Decline in China’s Household Savings Rate](https://link.springer.com/article/10.1007/s00181-022-02212-w)**  
-with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)
+with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)  
 Empirical Economics, Vol 63, pp. 2513–37, February 2022
 
 # Works in Progress
