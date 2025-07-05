@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Economics at Tulane University. My research interests lie in the fields of demography, health economics, and the economics of education.
+I am a Ph.D. candidate in the Department of Economics at Tulane University, with an expected graduation in May 2026. My research interests lie in demography, health economics, and education economics.
 
-I will be on the job market in Fall 2025.
+I am on the 2025-26 job market.
 
 You can find my CV [here](http://lelezhao-econ.github.io/files/CV.pdf).
 
