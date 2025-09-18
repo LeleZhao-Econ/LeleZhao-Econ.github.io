@@ -6,12 +6,17 @@ redirect_from:
   - /research.html
 
 ---
+# Publication
+
+**[Mobile Payment Adoption and the Decline in China’s Household Savings Rate](https://link.springer.com/article/10.1007/s00181-022-02212-w)**  
+with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)  
+Empirical Economics, Vol 63, pp. 2513–37, February 2022
 
 # Working Papers
 
-**Gender Disparities in Divorce Laws: Incentivizing Women’s Education**
+**Education As Insurance: Property Division and Women’s Education**
 
-Redistributive policies within households, such as property division upon divorce, can affect marital returns differently for women and men. In 2011, China changed the property division upon divorce from an equal to a title-based regime for housing property under certain conditions, leading to some women losing intrahousehold property ownership.  In this paper, I first develop a two-period model to illustrate how this expected decrease in marital surplus in the second period influences single women's incentives to invest in education in the first period. Then, I employ a continuous difference-in-differences framework to quantify the heterogeneous impact of the national property division reform, leveraging geographic variation in property ownership owned only by males in 2010. After the policy, a one standard deviation increase in the male-only deed share is associated with a 5.5 percentage point rise in overall enrollment among women aged 18–22, primarily driven by increased enrollment in four-year colleges. Aggregating these effects to the national level, I find that the policy led to a 15-percentage-point increase in both overall and four-year college enrollment. This paper shows that shifts in the marriage market shape women’s education, and property division reforms can unintentionally affect human capital.
+Wealth distribution upon divorce, such as property division, can result in asymmetric marital returns for women and men, thereby shaping incentives and behaviors. In 2011, China’s divorce law shifted from an equal-sharing to a deed-based property division, which disproportionately reduced women's wealth upon divorce, given that 87% of titles were in men’s names. Facing greater economic insecurity, women may use education as a form of insurance against future losses. This paper examines how the reform shaped young women’s educational choices. First, I develop a two-period model that shows declining marital returns increase women’s educational investment, with heterogeneous effects by bargaining power that are theoretically ambiguous and therefore empirical. Then, I identify the reform's heterogeneous effects by exploiting geographic variation in male-only deed share in 2010 as a proxy for bargaining power within a continuous difference-in-differences design. I find that a one-standard-deviation increase in the male-only deed share raises four-year college enrollment among women aged 18–22 by 3.5 percentage points in response to the reform. Using provinces with the lowest male-only deed share as a baseline, I estimate the reform increased four-year college enrollment by 9.2 percentage points for women overall. The findings suggest that changes in the marriage market influence women's human capital accumulation as a form of insurance against future losses, and that property division reforms can unintentionally impact higher education decisions, potentially contributing to the rapid increase in women's educational attainment in contemporary China.
 
 
 **The Impact of Telemedicine on Physicians’ Offline Behavior and Patient Health Outcomes: Evidence from China**  
@@ -28,15 +33,6 @@ with Yu Liu, Lu Yao
 
 Despite decades of discussion on the impacts of retirement, our understanding of how retirement affects health outcomes remains limited. In China, statutory retirement ages for formal workers are strictly implemented. Hence, it provides a perfect natural experiment to examine the causal impact of retirement behavior on health outcomes. This study utilizes inpatient claims data in a large hospital in China and employs a regression discontinuity design to examine the impact of retirement on inpatient utilization, costs, and health outcomes across different groups of people – males, blue-collar females, and white-collar females – whose statutory retirement ages differ in China. While the compliance of retirement status with statutory retirement age is very high for all three groups, our findings show that retirement does not significantly increase people’s inpatient visits. Similarly, the cost of hospitalization does not change significantly after retirement. However, we observed a substantial increase in the probability of hospital readmission among white-collar females. This result remains robust even after accounting for health insurance and pension differences. Our results have important policy implications for gender and occupational differences in statutory retirement ages.
 
-# Publication
-
-**[Mobile Payment Adoption and the Decline in China’s Household Savings Rate](https://link.springer.com/article/10.1007/s00181-022-02212-w)**  
-with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)  
-Empirical Economics, Vol 63, pp. 2513–37, February 2022
-
-# Works in Progress
-
-**Pre-Marital Medical Examination and HIV Prevalence**
 
 
 
