@@ -1,26 +1,20 @@
 ---
 ---
-
 /*
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/default",
     "theme/dark",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,15 +23,33 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* 导入 Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&family=Bitter:wght@300;400;500;600;700&display=swap');
+
+/* 自定义字体设置 */
+// 标题使用 Young Serif
+h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title {
+    font-family: 'Young Serif', serif;
+}
+
+// 段落文本使用 Bitter
+body, p, .page__content {
+    font-family: 'Bitter', serif;
+}
+
+// 确保正文内容使用 Bitter
+.page__content p,
+.page__content li,
+.archive__item-excerpt {
+    font-family: 'Bitter', serif;
+}
