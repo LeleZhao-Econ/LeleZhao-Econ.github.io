@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Economics at Tulane University, with an expected graduation in May 2026. My research interests lie in demography, health economics, and education economics.
+I am a Ph.D. candidate in the Department of Economics at Tulane University, with an expected graduation in May 2026. My research lies at the intersection of labor, education, and health economics, with a particular focus on how policies shape individual behavior. 
+
 
 I am on the 2025-26 job market.
 
