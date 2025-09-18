@@ -53,3 +53,90 @@ body, p, .page__content {
 .archive__item-excerpt {
     font-family: 'Bitter', serif;
 }
+
+---
+---
+
+@charset "utf-8";
+
+// 导入 Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&family=Bitter:wght@300;400;500;600;700&display=swap');
+
+// 标题字体 - Young Serif
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.site-title,
+.masthead__menu-item {
+    font-family: 'Young Serif', serif !important;
+}
+
+// 正文和大部分UI元素 - Bitter
+body,
+p,
+.page__content,
+.archive__item-excerpt,
+.sidebar p,
+.page__meta,
+.author__bio,
+.author__content,
+.sidebar .author__name,
+.sidebar .author__bio,
+.greedy-nav a,
+.masthead .site-title,
+.page__footer,
+.btn,
+button,
+input,
+select,
+textarea,
+.author__urls li a,
+.social-icons a {
+    font-family: 'Bitter', serif !important;
+}
+
+// 确保链接也使用Bitter字体
+a {
+    font-family: 'Bitter', serif !important;
+}
+
+// 特别指定侧边栏的所有文本
+.sidebar * {
+    font-family: 'Bitter', serif !important;
+}
+
+// 导航菜单
+.greedy-nav .masthead__menu {
+    font-family: 'Bitter', serif !important;
+}
+
+.greedy-nav .masthead__menu-item {
+    font-family: 'Bitter', serif !important;
+}
+
+@import
+    "vendor/breakpoint/breakpoint",
+    "themes",
+    "theme/default",
+    "theme/dark",
+    "include/mixins",
+    "vendor/susy/susy",
+    "layout/reset",
+    "layout/base",
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+    "layout/forms",
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands",
+    "vendor/magnific-popup/magnific-popup"
+;
