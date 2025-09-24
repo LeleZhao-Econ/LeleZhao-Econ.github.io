@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Lele Zhao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I am a Ph.D. candidate in the Department of Economics at Tulane University, with an expected graduation in May 2026. My research lies at the intersection of labor, education, and health economics, with a particular focus on how policies shape individual behavior. 
 
