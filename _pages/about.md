@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Lele Zhao"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
