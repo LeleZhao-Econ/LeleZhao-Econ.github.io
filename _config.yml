@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "LeleZhao"
+title                    : "Tulane University"
 title_separator          : "-"
 name                     : &name "LeleZhao"
 description              : &description "personal description"
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/lelezhao-econ/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
