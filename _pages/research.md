@@ -40,16 +40,15 @@ with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)
 
 <div class="paper-abstract">
 <strong>Abstract:</strong> Wealth distribution upon divorce, such as property division, shapes incentives by altering the marital surplus of women and men. In 2011, China’s marriage law shifted from equal-sharing to deed-based property division, disproportionately reducing women’s wealth upon divorce, as 87% of titles were in men’s names. Facing greater economic insecurity, women may use education as insurance against future losses. This paper examines how the reform affected young women’s educational choices. I first develop a two-period model predicting that a decline in marital surplus increases women’s educational investment. I then implement a continuous difference-in-differences design, using the 2010 male-only deed share as a measure of policy intensity. Consistent with the model, I find that a one-standard-deviation increase in male-only deed share led to a 3.5 percentage point rise in four-year college enrollment among women aged 18–22. Relative to provinces with a gender-balanced distribution of deeds, the reform increased women’s enrollment by 12.1 percentage points overall. These findings suggest that shifts in the marriage market influence women’s human capital investment as insurance, and that property division reforms can unintentionally accelerate higher education, contributing to the rapid rise in women’s educational attainment in contemporary China.
-
 </div>
+
+<hr class="paper-divider">
 
 **The Impact of Straw Burning Ban on Children's Health in China.**
 
 <div class="paper-abstract">
 <strong>Abstract:</strong> I examine the impact of agricultural fires—a major source of air pollution in rural areas globally—on children’s health. I leverage the Crop Straw Resource Utilization (CSRU) pilot policy, which offers subsidies to reduce straw burning and promote alternative uses of crop residue. Using a difference-in-differences strategy, I find that the policy led to a 39% reduction in straw fire counts in subsidized provinces. This decline in agricultural fires leads to a 5.6% improvement in the Air Quality Index (AQI) and a 7.4% decrease in PM2.5 concentration one year after the policy was implemented. However, these improvements in ambient air quality do not persist beyond the first year. Corresponding to the short-term improvement in air quality, I find a 14.3% decrease in the likelihood of hospital visits among children, but only for those from households engaged in agricultural activities. No significant changes are observed in the incidence of asthma or other respiratory illnesses. Notably, the likelihood of households using straw as a cooking fuel increases by 22.2%, suggesting that the health benefits of improved outdoor air quality may be offset by rising indoor air pollution. This shift highlights a trade-off between two competing mechanisms: while income effects from the subsidies may help reduce healthcare utilization, the increased reliance on straw as an indoor fuel may counteract those health gains by exposing children to higher levels of indoor pollutants. The net effect appears muted, and the evidence for an income-driven decline in hospital visits remains suggestive.
 </div>
-
-<hr class="paper-divider">
 
 <hr class="paper-divider">
 
