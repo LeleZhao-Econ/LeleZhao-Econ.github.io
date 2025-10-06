@@ -23,6 +23,3 @@ Ultimately, I aim to inspire students to approach economic problems with curiosi
 
 ---
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
