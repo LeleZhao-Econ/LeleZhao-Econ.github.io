@@ -36,7 +36,7 @@ with [Jianmei Zhao](https://www.researchgate.net/profile/Jianmei-Zhao-2)
 
 # Working Papers
 
-**Education as Insurance: Property Division and Women's Education.** (Job Market Paper)
+**Education as Insurance: Property Division and Women's Education.** [(Job Market Paper)](https://drive.google.com/file/d/1b0InJwbfZaZnXEdGrMl1XG7u61dfB644/view?usp=sharing)
 
 <div class="paper-abstract">
 <strong>Abstract:</strong> Wealth distribution upon divorce, such as property division, shapes incentives by altering the marital surplus of women and men. In 2011, China’s marriage law shifted from equal-sharing to deed-based property division, disproportionately reducing women’s wealth upon divorce, as 87% of titles were in men’s names. Facing greater economic insecurity, women may use education as insurance against future losses. This paper examines how the reform affected young women’s educational choices. I first develop a two-period model predicting that a decline in marital surplus increases women’s educational investment. I then implement a continuous difference-in-differences design, using the 2010 male-only deed share as a measure of policy intensity. Consistent with the model, I find that a one-standard-deviation increase in male-only deed share led to a 3.5 percentage point rise in four-year college enrollment among women aged 18–22. Relative to provinces with a gender-balanced distribution of deeds, the reform increased women’s enrollment by 12.1 percentage points overall. These findings suggest that shifts in the marriage market influence women’s human capital investment as insurance, and that property division reforms can unintentionally accelerate higher education, contributing to the rapid rise in women’s educational attainment in contemporary China.
